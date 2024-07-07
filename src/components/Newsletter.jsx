@@ -15,12 +15,13 @@ const Newsletter = () => {
               placeholder="Enter Your Mail"
               className="p-3 flex w-full rounded-md text-black"
             />
-            <button className="bg-[#00df9a] w-[200px] rounded-md font-medium my-6 ml-4 px-6 py-3 text-black ">
+            <button className="bg-[#00df9a] w-[200px] rounded-md font-medium my-6 ml-4 px-6 py-3 text-black   ">
               Notify Me
             </button>
           </div>
           <p>
-            We care about the protection of your data. &nbsp;Read&nbsp;our&nbsp;
+            We care about the protection of your data. <br />
+            Read&nbsp;our&nbsp;
             <span className="text-[#00df9a] cursor-pointer underline">
               &nbsp;Privacy&nbsp;Policy&nbsp;
             </span>
